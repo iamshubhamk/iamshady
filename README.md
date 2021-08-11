@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamshady
+- 👋 Hi, I’m @iamshubhamkr
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on anything
